@@ -46,7 +46,7 @@ While it was cool having an API and webpage to change the colors, I decided to e
 
 Enabling IFTTT to talk to my web service required me to punch a hole in my router to expose bunny to the internet.
 
-Now you could ask google to change the color of the light.
+Now you could ask google to change the color of the light. [google home demo](pics/demo.mp4)
 
 
 ```
